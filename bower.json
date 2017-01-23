@@ -3,9 +3,10 @@
   "version": "0.1.1",
   "main": ["angular-ui-switch.js", "angular-ui-switch.css"],
   "authors": [
-    "xpeper <xpepermint@gmail.com>"
+    "xpeper <xpepermint@gmail.com>",
+    "Karanvir Kang <karankang007@gmail.com>"
   ],
-  "description": "iOS 7 style switch directive for AngularJS",
+  "description": "iOS 7 style switch directive for AngularJS with ng-disabled support",
   "keywords": [
     "angular",
     "angularjs",
@@ -19,7 +20,7 @@
     "form"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/xpepermint/angular-ui-switch",
+  "homepage": "https://github.com/Karankang007/angular-ui-switch",
   "ignore": [
     "**/.*",
     "node_modules",
